@@ -1,16 +1,15 @@
-# bottomnavbar
+# Flutter App Bottom Navbar
 
-A new Flutter project.
+I have created Flutter Bottom Navbar using Gnav Dependency
+~(https://pub.dev/packages/google_nav_bar)
 
-## Getting Started
+This is an Amazing Dependency, You can do the follows with built-in Gnav Methods.
+1. Adding icon and can alse change its color and size.
+2. Adding Label and can alse change its color and size.
+3. Changing of Selected tab and selected background color.
+4. Changing of tab size.
+5. Changing Gap between icon and text inside tab.
+6. Amazing Built-in Animations.
+7. Perfectly automatic alignment on adding 3,4,5 tabs
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I found this really helpful and the best part is that it proves modren Fresh UI design. Which boost your user experience with your app.
